@@ -17,7 +17,7 @@ export default function HeadLineCards({}: Props) {
             {/*Overlay*/}
             <div className="absolute w-full h-full bg-black/70 rounded-xl text-white ">
                 <p className="font-bold text-2xl px-2 pt-4">You really wanna eat this shit</p>
-                <p className='px-2'>Available every weekday</p>
+                <p className='px-2'>Monday to Friday</p>
                 <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
             </div>
             <img
@@ -31,8 +31,8 @@ export default function HeadLineCards({}: Props) {
         <div className='rounded-xl relative'>
             {/*Overlay*/}
             <div className="absolute w-full h-full bg-black/70 rounded-xl text-white ">
-                <p className="font-bold text-2xl px-2 pt-4">Sun is Out Nigger</p>
-                <p className='px-2'>through 8/26</p>
+                <p className="font-bold text-2xl px-2 pt-4">Food your you delinquent</p>
+                <p className='px-2'>Every Friday night</p>
                 <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
             </div>
             <img
@@ -46,8 +46,8 @@ export default function HeadLineCards({}: Props) {
         <div className='rounded-xl relative'>
             {/*Overlay*/}
             <div className="absolute w-full h-full bg-black/70 rounded-xl text-white ">
-                <p className="font-bold text-2xl px-2 pt-4">Sun is Out Nigger</p>
-                <p className='px-2'>through 8/26</p>
+                <p className="font-bold text-2xl px-2 pt-4">Trash Pancakes</p>
+                <p className='px-2'>Monday to Friday</p>
                 <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
             </div>
             <img
