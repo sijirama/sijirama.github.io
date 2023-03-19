@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
+import HeadLineCards from "./components/HeadLineCards"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero/>
+      <HeadLineCards/>
     </div>
   )
 }
