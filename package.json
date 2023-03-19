@@ -1,7 +1,7 @@
 {
   "name": "worsteatslanding",
   "private": true,
-  "homepage": "https://sijirama.github.io/worstEats",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
