@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import HeadLineCards from "./components/HeadLineCards"
+import MenuItems from "./components/MenuItems"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Hero/>
       <HeadLineCards/>
+      <MenuItems />
     </div>
   )
 }
