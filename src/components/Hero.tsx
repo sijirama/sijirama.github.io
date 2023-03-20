@@ -12,8 +12,8 @@ export default function Hero({}: Props) {
 
         {/*Overlay*/}
         <div className="absolute w-full h-full text-gray-200 max-h-[500px] bg-black/70 flex flex-col justify-center ">
-            <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-Almarai'>The <span className='text-orange-500 '>Worst</span></h1>
-            <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-Almarai'><span className='text-orange-500 '>Meals </span>Prepared</h1>
+            <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-Kanit'>The <span className='text-orange-500 '>Worst</span></h1>
+            <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-Kanit'><span className='text-orange-500 '>Meals </span>Prepared</h1>
         </div>
 
         <img className="w-full max-h-[500px] object-cover" src={ImageUrl} alt="" />

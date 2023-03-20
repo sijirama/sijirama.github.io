@@ -9,6 +9,7 @@ module.exports = {
       'nunito': ['nunito', 'sans-serif'],
       "Abril":['Abril Fatface', "cursive"],
       "Almarai":['Almarai', "sans-serif"],
+      "Kanit":['Kanit', "sans-serif"],
     },
 
     extend: {},
