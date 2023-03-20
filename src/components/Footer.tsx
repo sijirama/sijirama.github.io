@@ -24,7 +24,7 @@ function Footer({}: Props) {
             <p>Our Cafe</p>
           </div>
 
-          <div className='flex gap-5 p-2 md:w-1/2 justify-center bg-white'>
+          <div className='flex gap-5 p-2 md:w-1/2 justify-evenly bg-white'>
             <img src='/socials/github.png' alt='' className='' />
             <img src='/socials/whatsapp.png' alt='' />
             <img src='/socials/linkedin.png' alt='' />
