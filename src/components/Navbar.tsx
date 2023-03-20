@@ -36,7 +36,7 @@ export default function Navbar({}: Props) {
         {/* Search Input*/}
       <div className='bg-gray-200 flex items-center rounded-full px-2  w-[200px] sm:w-[400px] lg:w-[500px]'>
         <AiOutlineSearch size={iconSize - 4} />
-        <input className='bg-transparent p-2 focus:outline-none' type="text" placeholder='Search for a bad meal' />
+        <input className='bg-transparent p-2 focus:outline-none text-xs md:text-[0.8rem]' type="text" placeholder='Search for a bad meal' />
       </div>
 
         {/* Cart button*/}
