@@ -25,7 +25,7 @@ export default function Navbar({}: Props) {
             <AiOutlineMenu size={iconSize} />
           </div>
 
-          <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>Worst <span className='font-bold'>Eats</span></h1>
+          <h1 className='font-Abril text-2xl sm:text-3xl lg:text-4xl px-2'>Worst <span className='font-bold'>Eats</span></h1>
 
           <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[0.85rem] '>
             <p className='bg-black text-white rounded-full p-2'>Delivery</p>            
