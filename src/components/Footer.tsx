@@ -4,7 +4,7 @@ type Props = {}
 
 function Footer({}: Props) {
   return (
-    <div className="max-w-[1640px] min-h-[25rem] flex items-end justify-center relative  text-white">
+    <div className="max-w-[1640px] min-h-[25rem] flex items-end justify-center relative mx-auto text-white">
       
       {/* card */}
       <div className="w-full lg:w-5/6 h-5/6 flex flex-col md:flex-row bg-gray-800 mx-auto text-white">
