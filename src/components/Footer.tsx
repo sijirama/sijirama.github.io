@@ -36,7 +36,7 @@ function Footer({}: Props) {
         {/* Right Side */}
         <div className='w-full md:w-1/2 flex flex-col gap-10 align-center px-5 py-5 md:px-10 md:py-y justify-center align-center font-Almarai'>
           <p>Get the Worst Meals Ever</p>
-          <div className='flex'>
+          <div className='flex mx-3'>
             <input className="bg-transparent outline-none px-2 border-white border-2"  type='text' placeholder='' />
             <button className='rounded-none border-1 border-white'>subscribe</button>
           </div>
