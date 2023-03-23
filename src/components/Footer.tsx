@@ -47,20 +47,6 @@ function Footer({}: Props) {
           </div>
 
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       </div>
     
     

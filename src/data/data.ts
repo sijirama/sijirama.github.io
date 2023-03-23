@@ -8,6 +8,7 @@ type data = {
 
 
 
+
 export const data:data[] = [
     {
       id: 1,
