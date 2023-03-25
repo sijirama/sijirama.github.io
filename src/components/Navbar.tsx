@@ -63,7 +63,7 @@ export default function Navbar({}: Props) {
         'fixed top-0 left-[-100%] w-[300px] h-screen bg-white z-10 duration-300'
         }>
           <AiOutlineClose onClick={toggleNavBar} size={iconSize} className = "absolute right-4 top-4 cursor-pointer " />
-          <h2 className="text-2xl p-4 ">Worst <span className="font-bold">Eats</span></h2>
+          <h2 className="text-2xl font-Abril p-4 ">Worst <span className="font-bold">Eats</span></h2>
           <nav>
             <ul className="flex flex-col p-4 text-gray-800 ">
               <li className="text-xl py-4 flex items-center gap-2"><TbTruckDelivery size={iconSize - 5} className = "" />Orders</li>
